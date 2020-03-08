@@ -1,7 +1,7 @@
 #ifndef ATMEGA2560_BMPDRIVER_H
 #define ATMEGA2560_BMPDRIVER_H
 
-#include "../../lib/SFE_BMP180/SFE_BMP180.h"
+#include <SFE_BMP180.h>
 
 class BmpDriver {
 private:
